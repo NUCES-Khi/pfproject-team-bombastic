@@ -49,7 +49,4 @@ The project's GitHub repository showcases individual contributions from:
 
 A video demonstration of the project can be found [here](#).
 
-## Presentation
-
-The project presentation will cover aspects such as code quality, data structures, problem resolution, major algorithms, and individual contributions.
 
