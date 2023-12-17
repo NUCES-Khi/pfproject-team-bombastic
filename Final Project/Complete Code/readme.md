@@ -1,4 +1,3 @@
-## Here's the complete code, make sure to run it in Dev C++ to avoid any errors
 # Project Report: Accessible Dictionary In C
 
 ## Proposal Idea
@@ -12,7 +11,7 @@ The primary data structure used in this project is an array of structures (`stru
 ## Major Problems Faced
 
 1. **File Handling**: Ensuring proper file operations for reading and writing dictionary entries.
-2. **User Authentication**: Implementing a secure login screen and handling login attempts.
+2. **User Authentication**: Implementing a secure login screen and handling log in attempts.
 
 ### Resolution
 
