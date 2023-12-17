@@ -1,3 +1,8 @@
+/*
+Name: Syed Saif ur Rehman Shah
+Roll Num: 23K-0032
+Description: Displays the menu to search and add words and exit the program, with the function of search words.
+*/
 void menu() {
     system("cls");
     system("color 2");
