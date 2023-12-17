@@ -58,9 +58,9 @@ void search() {
                 }
             }
         }
-    //end Saif
         fclose(data);
 
         printf("\n\n               Search more words? (y/n): ");
     } while (getche() == 'y');
 }
+//end Saif aka iamunknowngamer
