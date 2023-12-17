@@ -46,6 +46,6 @@ The project's GitHub repository showcases individual contributions from:
 
 ## Video Demo on GitHub
 
-A video demonstration of the project can be found [here](#).
+A video demonstration of the project can be found [here]([#](https://streamable.com/chr4xl)).
 
-
+https://streamable.com/chr4xl
