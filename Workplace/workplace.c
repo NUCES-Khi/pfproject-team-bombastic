@@ -1,3 +1,4 @@
+//Syed Saif ur Rehman Shah (23k-0032)
 void menu() {
     system("cls");
     system("color 2");
@@ -57,6 +58,7 @@ void search() {
                 }
             }
         }
+    //end Saif
         fclose(data);
 
         printf("\n\n               Search more words? (y/n): ");
